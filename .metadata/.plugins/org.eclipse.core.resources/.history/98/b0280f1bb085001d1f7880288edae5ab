@@ -1,0 +1,15 @@
+package dev.sample.model;
+
+public class Major {
+	private int id;
+	
+
+	private String majorName;
+	
+	public Major(int id, String majorName) {
+		super();
+		this.id = id;
+		this.majorName = majorName;
+	}
+	
+}

@@ -1,0 +1,13 @@
+package dev.sample;
+
+public class App {
+
+	public static void main(String[] args) {
+		Student jeong = new Student(1, "사도");
+		Student king = new Student(2, "재준");
+		
+		
+
+	}
+
+}
